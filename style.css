@@ -1,8 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+DE+VA+Guides&display=swap');
+
 body{
     background-color: yellow;
     color: green;
     font-size: 100px;
     text-shadow: 5px 5px 5px black;
+
+  font-family: "Playwrite DE VA Guides", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
 }
 
 .photo{
